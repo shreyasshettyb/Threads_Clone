@@ -1,0 +1,11 @@
+Folder Structure
+App
+    -(auth) Route grps defined as (<foldername>)
+        Auth pages
+    -(root)
+Components
+    -card
+    -forms
+    -shared
+
+Video 33.53
